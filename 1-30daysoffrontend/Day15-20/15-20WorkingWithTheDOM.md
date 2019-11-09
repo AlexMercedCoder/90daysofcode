@@ -11,4 +11,6 @@ Watch the videos below, try to make a test project on codepen after each video u
 how to store information in localstorage: https://www.youtube.com/watch?v=AfVUiQ-my4Q
 
 
-Assignment: Create a to-do list app that allows the user to save their to-dos to localstorage to be loaded up later.
+### Assignment
+
+ Create a to-do list app that allows the user to save their to-dos to localstorage to be loaded up later.
